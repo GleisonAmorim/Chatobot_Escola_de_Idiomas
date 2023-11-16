@@ -1,7 +1,5 @@
 # Chatbot Interativo para Escola de Idiomas
 
-Olá, pessoal! Gostaria de compartilhar meu projeto recente: um chatbot interativo para a Escola de Idiomas.
-
 **Recursos:**
 - Respostas personalizadas sobre cursos.
 - Detalhes sobre instrutores qualificados.
