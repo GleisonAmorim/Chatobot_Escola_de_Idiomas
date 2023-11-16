@@ -18,7 +18,7 @@ Olá, pessoal! Gostaria de compartilhar meu projeto recente: um chatbot interati
 2. Execute o script Python.
 3. Interaja com o chatbot e explore as funcionalidades.
 
-**Link para o bot**
+**Link para interagir com o bot**
 https://replit.com/@gleisonamorim19/BOT-Escola-de-Idiomas
 
 **Agradecimentos:**
