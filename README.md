@@ -18,13 +18,10 @@ Olá, pessoal! Gostaria de compartilhar meu projeto recente: um chatbot interati
 2. Execute o script Python.
 3. Interaja com o chatbot e explore as funcionalidades.
 
-**Feedback é bem-vindo!**
-- Estou aberto a sugestões para aprimorar essa experiência.
-
 **Link para o bot**
 https://replit.com/@gleisonamorim19/BOT-Escola-de-Idiomas
 
 **Agradecimentos:**
 - Agradeço a todos que contribuíram e apoiaram este projeto.
 
-#Chatbot #EscolaDeIdiomas #InovaçãoEducacional #TecnologiaEducativa #Python #GitHubProjects #OpenSource #EducaçãoInovadora #AprendizadoDeIdiomas #ChatbotDevelopment
+
